@@ -8,7 +8,7 @@
 ## 文档
 
 - [WIKI](https://github.com/crossfw/Air-Universe/wiki)
-- [一键脚本](https://github.com/crossfw/Air-Universe/wiki/%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E5%AE%89%E8%A3%85)
+- [一键脚本](https://github.com/cwv587/Air-Universe/wiki/%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E5%AE%89%E8%A3%85)
 - [第三方一键脚本](https://github.com/jinwyp/one_click_script/blob/master/TOOL_CN.md)
 - [Docker安装](https://github.com/crossfw/Air-Universe-DockerInstall)
 - [配置文件文档](https://github.com/crossfw/Air-Universe/wiki/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
